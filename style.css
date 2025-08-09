@@ -26,7 +26,7 @@ body{
     background-color: #f9fafb;
 }
 .sec-2-main{
-    background-color: #fbbf24;
+    background-color: #4a90e2;
     width: 100%;
     height: 500px;
     border-radius: 20px;
@@ -38,7 +38,7 @@ body{
     grid-template-columns: 37% 63%;
 }
 .sec-2-main-bot{
-    background-color: #ebb631;
+    background-color: #3a7bd5;
     height: 50px;
     display: grid;
     grid-template-columns: 44% 28% 11%;
@@ -59,7 +59,7 @@ body{
     font-weight: 1000;
 }
 .sp1{
-    color: #fde68a;
+    color: #a7d9ff;
 }
 .sec-2-main-top-sec-2-sec-1{
     display: inline-flex;
@@ -327,3 +327,4 @@ li::after {
 .icc{
     margin: 50px 0px;
 }
+
